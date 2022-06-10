@@ -17,7 +17,7 @@ public class Main {
 
        System.out.println("""
 
-                Перевернутый на 270 градусов массив:\s
+                Перевернутый на 260 градусов массив:\s
                """);
 
        int [][] colors = new int [SIZE][SIZE];
